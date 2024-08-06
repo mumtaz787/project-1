@@ -1,0 +1,64 @@
+body{
+    background-image: url(assets/image\ 1.jpg);
+    background-repeat:  no-repeat;
+    background-size: cover;
+    height: 70px;
+    
+  }
+  .text{
+    padding: 5%;
+    top: 20%;
+    margin-top: 233px;
+  }
+  .warning{
+    position: absolute;
+    margin-left: 300px;
+    top: 1200px;
+  }
+  .light{
+    position: absolute;
+    margin-left: 600px;
+    top: 1200px;
+  
+  }
+  .dark{
+    position: absolute;
+    margin-left: 900px;
+    top: 1200px;
+  }
+  .white{
+    position: absolute;
+    margin-left: 900px ;
+    top: 1420px;
+  }
+  .sky{
+    position: absolute;
+    margin-left: 600px;
+    top:1420px ;
+  }
+  .green{
+    position: absolute;
+    margin-left: 300px;
+    top: 1420px;
+  }
+  .blue{
+    position: absolute;
+    margin-left: 5px;
+    top: 1420px;
+  }
+  .start{
+    position: absolute;
+    top: 1700px;
+    margin-left: 450px;
+
+  }
+  .end{
+    position: absolute;
+    top:1700px;
+    margin-left: 100px;
+  }
+  .red{
+    position: absolute;
+    top: 1700px;
+    margin-left:800px;
+  }
