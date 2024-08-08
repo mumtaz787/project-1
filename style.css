@@ -2,11 +2,11 @@ body{
 background-image: url(assets/image\ 1.jpg);
 background-repeat: no-repeat;
 background-size: cover;
-height: 100vh;
+height: 50vh;
 }
 
 .mb-2{
-  margin-top: 225px;
+  margin-top: 175px;
 }
 
   .text{
